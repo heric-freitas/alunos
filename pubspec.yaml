@@ -43,7 +43,6 @@ dependencies:
   path: ^1.8.3
   validatorless: ^1.2.3
   flutter_masked_text2: ^0.9.1
-  brasil_fields: ^1.13.1
 
 dev_dependencies:
   flutter_test:
@@ -55,7 +54,8 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
-  mockito: ^5.4.2
+  mocktail: ^0.3.0
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
